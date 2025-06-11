@@ -719,7 +719,7 @@ Error details: ${error.message}`;
                           <div className="rounded-lg border border-yellow-200 bg-yellow-50 dark:border-yellow-200/20 dark:bg-yellow-900/20 p-4 text-yellow-800 dark:text-yellow-200 max-w-md">
                             <strong>Your agent needs training!</strong>
                             <br />
-                            Click "Train" to add knowledge so your agent can
+                            Click Train to add knowledge so your agent can
                             answer questions.
                           </div>
                         )}
